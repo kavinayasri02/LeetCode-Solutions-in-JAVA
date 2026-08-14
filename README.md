@@ -21,4 +21,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
