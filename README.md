@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0001-two-sum) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0001-two-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
