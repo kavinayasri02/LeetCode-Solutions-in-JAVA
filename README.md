@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0035-search-insert-position) |
+| [0120-triangle](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0120-triangle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0005-longest-palindromic-substring) |
+| [0120-triangle](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0120-triangle) |
 ## Manacher
 |  |
 | ------- |
