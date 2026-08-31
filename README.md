@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0013-roman-to-integer) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0013-roman-to-integer) |
 | [0709-to-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0709-to-lower-case) |
 | [1446-consecutive-characters](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1446-consecutive-characters) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0013-roman-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
