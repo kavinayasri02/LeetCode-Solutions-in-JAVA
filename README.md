@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
