@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0709-to-lower-case) |
 | [1446-consecutive-characters](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1446-consecutive-characters) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
