@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0709-to-lower-case) |
 | [1446-consecutive-characters](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1446-consecutive-characters) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0504-base-7) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
