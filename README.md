@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0035-search-insert-position) |
 | [0120-triangle](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0120-triangle) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0202-happy-number) |
 ## Dynamic Programming
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bracket Sequences
 |  |
