@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0035-search-insert-position) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0202-happy-number) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0018-4sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bracket Sequences
 | Problem Name | Difficulty |
