@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0202-happy-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
