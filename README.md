@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0326-power-of-three](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0509-fibonacci-number) |
