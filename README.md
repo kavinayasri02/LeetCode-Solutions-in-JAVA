@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0412-fizz-buzz](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0415-add-strings) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 | [0120-triangle](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0509-fibonacci-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
