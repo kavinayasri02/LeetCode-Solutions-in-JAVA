@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
@@ -204,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
