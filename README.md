@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0029-divide-two-integers/) | Medium |
 | [0069-sqrtx](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0326-power-of-three) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
