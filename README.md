@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0412-fizz-buzz](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0415-add-strings) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0202-happy-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0202-happy-number) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -220,4 +222,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
