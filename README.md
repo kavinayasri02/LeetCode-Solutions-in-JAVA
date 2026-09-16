@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0412-fizz-buzz](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0504-base-7) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0120-triangle](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0509-fibonacci-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 | Problem Name | Difficulty |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
