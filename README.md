@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0036-valid-sudoku/) | Medium |
+| [0088-merge-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0202-happy-number) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bracket Sequences
 | Problem Name | Difficulty |
