@@ -179,14 +179,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
