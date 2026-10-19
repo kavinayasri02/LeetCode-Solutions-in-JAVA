@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0441-arranging-coins) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
