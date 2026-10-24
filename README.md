@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0709-to-lower-case) |
 | [1446-consecutive-characters](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1446-consecutive-characters) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2409-count-days-spent-together](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Enumeration
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
