@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1254-number-of-closed-islands](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
