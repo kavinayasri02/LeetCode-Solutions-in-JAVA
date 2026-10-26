@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3731-find-missing-elements](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0112-path-sum/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,11 +312,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0036-valid-sudoku/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0112-path-sum/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
