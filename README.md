@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3731-find-missing-elements](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,12 +316,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0029-divide-two-integers/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0036-valid-sudoku/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
