@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1201-ugly-number-iii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
@@ -130,14 +131,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0441-arranging-coins) |
+| [1201-ugly-number-iii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1201-ugly-number-iii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -359,4 +364,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1201-ugly-number-iii/) | Medium |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1201-ugly-number-iii/) | Medium |
+## Inclusion-Exclusion Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1201-ugly-number-iii/) | Medium |
 <!---LeetCode Topics End-->
