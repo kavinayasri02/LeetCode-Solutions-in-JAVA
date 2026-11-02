@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0504-base-7](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
