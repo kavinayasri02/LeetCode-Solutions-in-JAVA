@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0441-arranging-coins) |
 | [1201-ugly-number-iii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1201-ugly-number-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0202-happy-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
