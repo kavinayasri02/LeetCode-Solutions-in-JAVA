@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1201-ugly-number-iii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1201-ugly-number-iii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
