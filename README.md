@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0036-valid-sudoku/) | Medium |
 | [0055-jump-game](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0055-jump-game/) | Medium |
+| [0078-subsets](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0078-subsets/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0078-subsets/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Matrix
