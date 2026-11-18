@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2409-count-days-spent-together](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Enumeration
