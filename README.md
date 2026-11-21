@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0112-path-sum/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0112-path-sum/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
