@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0709-to-lower-case) |
 | [1446-consecutive-characters](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/1446-consecutive-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2409-count-days-spent-together](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/0415-add-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kavinayasri02/LeetCode-Solutions-in-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 | Problem Name | Difficulty |
